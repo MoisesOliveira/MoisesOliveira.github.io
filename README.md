@@ -1,2 +1,2 @@
 
-Site para o portfolio. Evite alterações não autorizadas.
+Site para o portfolio. 
